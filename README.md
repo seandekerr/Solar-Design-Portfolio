@@ -20,3 +20,10 @@ This repository contains examples of my residential and commercial solar PV desi
 * **Tools Used:** OpenSolar
 * **System Type:** Grid-Tied Commercial
 * **IN PROGRESS**
+
+## Additional: Floatavoltaics Conceptual Product Proposal
+*Academic Project: Engineering Communications (Carleton University)*
+* **Focus:** Conceptual system design, feasibility analysis, and technical writing for deployable floating solar PV.
+* **Skills Demonstrated:** Technical communication, project proposal structuring, and research into emerging PV technologies.
+* **Documentation Included:**
+  * [PoweЯRaft_ Portable and Amphibious Solar Electric Generator PDF](#)
