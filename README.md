@@ -1,5 +1,5 @@
 # Solar System Design Portfolio
-**Sean Kerr, B.Eng. | NABCEP PV Associate**
+**Sean Kerr, EE B.Eng. | NABCEP PV Associate**
 
 This repository contains examples of my residential and commercial solar PV designs, created using OpenSolar, CAD tools, and industry-standard single-line diagrams (SLDs).
 
