@@ -4,7 +4,6 @@
 This repository contains examples of my residential and commercial solar PV designs, created using OpenSolar, CAD tools, and industry-standard single-line diagrams (SLDs).
 
 ## Project 1: Residential Grid-Tied System
-A complete design and shading analysis for a residential property. 
 * **Tools Used:** OpenSolar
 * **System Type:** Grid-Tied Residential
 * **Documentation Included:**
@@ -13,3 +12,11 @@ A complete design and shading analysis for a residential property.
   * [3D OpenSolar View](SeanKerr_ResidentialSolarDesign1_OpenSolarView.png)
  
 ## Project 2: Residential Stand-Alone Ground Mounted System
+* **Tools Used:** OpenSolar
+* **System Type:** Stand-Alone Residential
+* **IN PROGRESS**
+
+* ## Project 3: 1MW Commercial System
+* **Tools Used:** OpenSolar
+* **System Type:** Grid-Tied Commercial
+* **IN PROGRESS**
