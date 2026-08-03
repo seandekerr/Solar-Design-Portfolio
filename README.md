@@ -8,7 +8,7 @@ This repository contains examples of my residential and commercial solar PV desi
 * **System Type:** Grid-Tied Residential
 * **Documentation Included:**
   * [Design Summary PDF](SeanKerr_ResidentialSLD1_DesignSummary.pdf)
-  * [Single Line Diagram (SLD)](SeanKerr_ResidentialSLD_Portfolio1.png)
+  * [Single Line Diagram (SLD)](SeanKerr_Residential1SLD.png)
   * [3D OpenSolar View](SeanKerr_ResidentialSolarDesign1_OpenSolarView.png)
  
 ## Project 2: Residential Stand-Alone Ground Mounted System
