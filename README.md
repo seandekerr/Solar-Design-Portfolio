@@ -11,7 +11,7 @@ This repository contains examples of my residential and commercial solar PV desi
   * [Single Line Diagram (SLD)](SeanKerr_Residential1SLD.png)
   * [3D OpenSolar View](SeanKerr_ResidentialSolarDesign1_OpenSolarView.png)
  
-## Project 2: Residential Stand-Alone Ground Mounted System
+## Project 2: 100 kWh/day Stand-Alone Micro-Grid Standalone System
 * **Tools Used:** OpenSolar
 * **System Type:** Stand-Alone Residential
 * **IN PROGRESS**
