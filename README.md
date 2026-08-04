@@ -14,7 +14,11 @@ This repository contains examples of my residential and commercial solar PV desi
 ## Project 2: 100 kWh/day Stand-Alone Micro-Grid Standalone System
 * **Tools Used:** OpenSolar
 * **System Type:** Stand-Alone Residential
-* **IN PROGRESS**
+* **Documentation Included:**
+* [Design Summary PDF](SeanKerr_MicroGrid_DesignSummary.pdf)
+* [Single Line Diagram (SLD)](SeanKerr_MicroGrid1_SLD.png)
+* [3D OpenSolar View]
+* [Calculations page]
 
 * ## Project 3: 1MW Commercial System
 * **Tools Used:** OpenSolar
