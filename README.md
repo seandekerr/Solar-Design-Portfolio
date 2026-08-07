@@ -11,7 +11,7 @@ This repository contains examples of my residential and commercial solar PV desi
   * [Single Line Diagram (SLD)](SeanKerr_Residential1SLD.png)
   * [3D OpenSolar View](SeanKerr_ResidentialSolarDesign1_OpenSolarView.png)
  
-## Project 2: 32 kW, ~100 kWh Daily Load 3 phase Micro-Grid Standalone System
+## Project 2: 100 kWh/day 3 phase Micro-Grid PV+BESS System
 * **Tools Used:** OpenSolar
 * **System Type:** Commercial Micro-Grid Supply (Stand-Alone)
 * **Documentation Included:**
