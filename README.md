@@ -18,7 +18,7 @@ This repository contains examples of my residential and commercial solar PV desi
   * [Design Summary PDF](SeanKerr_MicroGrid_DesignSummary.pdf)
   * [Single Line Diagram (SLD)](SeanKerr_MicroGrid1_SLD.png)
   * [3D OpenSolar View](SeanKerr_MicroGrid1_OSView.png)
-  * [Calculations page](Sean Kerr Micro-Grid PV+BESS System CALCULATIONS.pdf)
+  * [Calculations page](Sean Kerr Micro-Grid PV+BESS System CALCULATIONS.pdf).
 
 * ## Project 3: 1MW Commercial System
 * **Tools Used:** OpenSolar
